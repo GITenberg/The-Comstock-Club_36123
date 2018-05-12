@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6978
 description: Fictional account of miners of the Pacific Coast, California & Nevadaby
   the editor of the Salt Lake City Daily Tribune.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36123#The-Comstock-Club
 gutenberg_issued: '2011-05-16'
 gutenberg_type: Text
 identifiers:
