@@ -1,0 +1,30 @@
+_repo: The-Comstock-Club_36123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodwin, C. C. (Charles Carroll)
+    alias: Goodwin, Charles Carroll
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '6978'
+    url: http://www.gutenberg.org/2009/agents/6978
+description: Fictional account of miners of the Pacific Coast, California & Nevadaby
+  the editor of the Salt Lake City Daily Tribune.
+gutenberg_issued: '2011-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comstock Lode (Nev.) -- Fiction'
+- !lcsh 'Miners -- Fiction'
+- !lcsh 'Virginia City (Nev.) -- Fiction'
+- !lcc 'PS'
+title: The Comstock Club
+url: http://www.gutenberg.org/ebooks/36123
